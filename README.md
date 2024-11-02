@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prishasbangera
 - 👀 I’m interested in Computer Graphics!
 - 🌱 I’m currently learning Java and Unity
-- 📸 Art Account: @prishainabox
+- 📸 Art Account: @prishainabox on Instagram
 
 <!---
 prishasbangera/prishasbangera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
