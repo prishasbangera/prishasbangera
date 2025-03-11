@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prishasbangera
 - 👀 I’m interested in Computer Graphics!
-- 🌱 I’m currently learning Java and Unity
+- 🌱 I’m currently learning Java, C, and Unity
 - 📸 Art Account: @prishainabox on Instagram
 
 <!---
