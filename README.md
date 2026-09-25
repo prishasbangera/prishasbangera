@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prishasbangera
 - 👀 I’m interested in Computer Graphics!
-- 🌱 I’m currently learning Java, C, and Unity
+- 🌱 I’m currently learning Python, OpenGL, and Maya Scripting
 - 📸 Art Account: @prishainabox on Instagram
 
 <!---
